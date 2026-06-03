@@ -573,3 +573,12 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+jenkins_home/
+secrets/
+plugins/
+jobs/
+logs/
+workspace/
+
+.env
+.DS_Store
